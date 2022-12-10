@@ -20,5 +20,4 @@ I am studying mashine learning and working with big data.
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaMerci&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
