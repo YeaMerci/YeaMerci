@@ -15,8 +15,4 @@ sssssssssssssssssssssssssss
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaMerci)](https://git.io/streak-stats)
-
-  uses: Platane/snk@v2
-  with:
-    github_user_name: ${{ github.YeaMerci }}
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaMerci=highcontrast)](https://git.io/streak-stats)
