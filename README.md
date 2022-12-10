@@ -19,4 +19,4 @@ I am studying mashine learning and working with big data.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YeaMerci&theme=violet-punch&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
