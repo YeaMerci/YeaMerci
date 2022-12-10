@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ## Hi I'm merci. Let's approximate together! 🐍
 I am studying mashine learning and working with big data.
 
@@ -17,5 +18,6 @@ I am studying mashine learning and working with big data.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaMerci&theme=highcontrast)](https://git.io/streak-stats)
