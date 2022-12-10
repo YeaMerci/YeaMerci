@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-## Hi I'm merci. Let's approximate together! 🐍
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+merci+🐍;Let's+approximate+together+!)](https://git.io/typing-svg)
+
 I am studying mashine learning and working with big data.
 
 ## Contacts 📲
