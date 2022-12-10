@@ -15,4 +15,4 @@ sssssssssssssssssssssssssss
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaMerci=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaMerci&theme=highcontrast)](https://git.io/streak-stats)
