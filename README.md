@@ -2,7 +2,7 @@
 I am studying mashine learning and working with big data.
 
 ## Contacts 📲
-![Telegram](https://komarev.com/ghpvc/?username=YeaMerci)
+![YeaMerci](https://komarev.com/ghpvc/?username=Merci)
 
 ## Technologies 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
