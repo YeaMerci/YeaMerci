@@ -3,7 +3,7 @@
 I am studying mashine learning and working with big data.
 
 ## Contacts 📲
-![Discord](https://img.shields.io/badge/Discord-Merci%2342747-orange)
+![Discord](https://img.shields.io/badge/Discord-Merci%232747-orange)
 ![Email](https://img.shields.io/badge/Email-entertomerci%40gmail.com-red)
 ![Telegram](https://img.shields.io/badge/Telegram-Merci-red)
 
@@ -17,7 +17,11 @@ I am studying mashine learning and working with big data.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Database
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
