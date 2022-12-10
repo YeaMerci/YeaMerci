@@ -4,7 +4,7 @@ I am studying mashine learning and working with big data.
 
 ## Contacts 📲
 ![Discord](https://img.shields.io/badge/Discord-Merci%2747-orange)
-![Email](https://img.shields.io/badge/Email-entertomerci%gmail.com-red)
+![Email](https://img.shields.io/badge/Email-entertomerci%40gmail.com-red)
 ![Telegram](https://img.shields.io/badge/Telegram-Merci-red)
 
 ## Technologies 💻
