@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+merci+!;Let's+approximate+together+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+good+to+see+you+🙃;Let's+get+better+together+✊)](https://git.io/typing-svg)
 
 
 ## Contacts 📲
